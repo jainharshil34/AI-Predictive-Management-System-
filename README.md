@@ -228,12 +228,4 @@ Notebook `05_xai.ipynb` uses `shap.KernelExplainer` with the LSTM flattened to 2
 
 ---
 
-## 📄 License
 
-MIT — see [LICENSE](LICENSE).
-
----
-
-## 👤 Author
-
-**Mehakdeep Singh** — AI & Data Science, 2025–2026
